@@ -1,0 +1,21 @@
+{
+    "name": "davidjeddy/pwt",
+    "description": "`PHP Workflow Tools` is a set of utilities for PHP developers to assist in the maintanability of code quality. This is not a tool unto itself but a collection of utilities and basic config automation scripts.",
+    "keywords": ["php", "tools", "qa", "utilities"],
+    "homepage": "http://www.davidjeddy.com/",
+    "type": "project",
+    "license": "BSD-3-Clause",
+    "support": {},
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.5.0",
+        "codeception/codeception": "*",
+        "pdepend/pdepend": "dev-master",
+        "fabpot/php-cs-fixer": "dev-master",
+        "sebastian/phpcpd": "*",
+        "sebastian/phpdcd": "*",
+        "phploc/phploc": "*",
+        "phpdocumentor/phpdocumentor": "2.*",
+        "phpunit/phpunit": "4.5.*"
+    }
+}
