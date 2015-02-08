@@ -1,3 +1,4 @@
 /vendor
 /_*
 *.cache
+*.lock
