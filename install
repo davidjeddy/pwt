@@ -1,0 +1,4 @@
+# get composer
+php -r "readfile('https://getcomposer.org/installer');" | php &&\
+# run package installer
+php composer.phar install
